@@ -6,4 +6,5 @@
 * [4 Analyse und Migration von Primärdaten](4-analyse-und-migration-von-primaerdaten.md)
 * [5 Emulation](5-emulation.md)
 * [6 Vertrauenswürdige Archive und Zertifizierung](6-vertrauenswuerdige-archive-und-zertifizierung.md)
-* [Organisationsvorschriften](organisationsvorschriften.md)
+* [7 Speicher](7-speicher/README.md)
+  * [Integrität und Checksummen](7-speicher/integritaet-und-checksummen.md)
