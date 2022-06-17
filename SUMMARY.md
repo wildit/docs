@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1LEZY2 Einführung](README.md)
+* [1 LEZY2 Einführung](README.md)
 * [2 Records Management](2-records-management.md)
 * [3 Auskoppeln, Web-Archivierung und Images](3-auskoppeln-web-archivierung-und-images.md)
 * [4 Analyse und Migration von Primärdaten](4-analyse-und-migration-von-primaerdaten.md)
@@ -8,3 +8,6 @@
 * [6 Vertrauenswürdige Archive und Zertifizierung](6-vertrauenswuerdige-archive-und-zertifizierung.md)
 * [7 Speicher](7-speicher/README.md)
   * [Integrität und Checksummen](7-speicher/integritaet-und-checksummen.md)
+* [8 Schnittstellen](8-schnittstellen/README.md)
+  * [IIIF](8-schnittstellen/iiif.md)
+* [9 Digital Humanities](9-digital-humanities.md)
