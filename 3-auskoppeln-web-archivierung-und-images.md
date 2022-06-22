@@ -6,3 +6,22 @@
 * Übernahmen bilden aus Web- und Cloud-basierten Systemen
 * Images erstellen von mobilen Datenträgern
 
+## Webarchivierung
+
+Webrecorder
+
+wget
+
+## Kopieren und Verschieben von Dateien
+
+Teracopy
+
+dsf
+
+{% embed url="https://www.dpconline.org/handbook/tool-demos/teracopy-demo" %}
+
+## Anlegen von Images
+
+Blockbasierte Images&#x20;
+
+Dateibasierte Images
