@@ -11,15 +11,27 @@ In diesem Kapitel geht es um die Frage, wie die Vertrauenswürdigkeit und Qualit
 
 ## Qualität und Nachhaltigkeit
 
-Im OAIS-Standard werden ein funktionales Modell und ein Informationsmodell definiert. Diese Modelle helfen, ein digitales Archiv zu konzipieren und umzusetzen. Das OAIS setzt aber keinen Massstab bezüglich Zielerfüllung.
+Im OAIS-Standard werden für die Konzeption und Umsetzung eines digitalen Archivs ein funktionales Modell und ein Informationsmodell definiert. Wenn ein digitales Archiv in Betrieb ist, bietet der OAIS-Standard kein Hilfsmittel um festzustellen, ob ein Archiv tatsächlich "OAIS-konform" ist. Man kann sich als Gedächtnisorganisation nicht OAIS-zertifizieren lassen, weil OAIS ein Referenzmodell ist und keine bestimmte technische Umsetzung vorgibt.
+
+Es stellt sich die Frage, wie ein digitales Archiv seine Vertrauenswürdigkeit unter Beweis stellen kann. In verschiedenen Initiativen wurden Standards, Guidelines, Kriterienkataloge und Checklisten entwickelt. Wichtig waren in diesem Zusammenhang:
+
+* &#x20;nestor AG Vertrauenswürdige Archive/Zertifizierung -> DIN 31644/nestor-Siegel
+* Data Archive and Networked Services (DANS) -> Data Seal of Approval
+* Primary Trustworthy Digital Repository Authorisation Body (ISO-PTAB) -> ISO 16363
+
+Aus dem "Data Seal of Approval" erwuchs schliesslich das Core Trust Seal.
+
+
 
 ## Core Trust Seal
 
 {% embed url="https://www.youtube.com/watch?ab_channel=DANS_knaw_nwo&v=ITSMzEH_YjY" %}
 
+Das Core Trust Seal ist als Stiftung organisiert. Es handelt sich um eine Selbstzertifizierung, welche von zwei unabhängigen Experten geprüft wird und dann während drei Jahren Gültigkeit hat. Danach erfolgt eine Re-Zertifizierung
+
 ### Anforderungskatalog mit 16 Kriterien
 
-Das Core Trust Seal definiert 16 Requirements (Anforderungsbereiche), die ein digitales Archiv für die Zertifizierung umgesetzt haben muss. Die Kriterien sind in vier Gruppen aufgeteilt:
+Der Kern der Zertifizierung bilden 16 Anforderungsbereiche (Requirements), bei denen ein digitales Archiv aufzeigen muss, wie es sie umgesetzt hat. Die Kriterien sind in vier Gruppen aufgeteilt:
 
 * **Background information (R0):** Designated Community
 * Organizational infrastructure (R1-6):&#x20;
