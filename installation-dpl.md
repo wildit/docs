@@ -2,7 +2,7 @@
 
 ## Einleitung
 
-Dieses Kapitel beschreibt die Installation des DPL (Digital Preservation Lab). Das ist eine virtuelle Maschine (VM), auf welcher alle Werkzeuge vorinstalliert sind, die Sie in LEZY2 benötigen.&#x20;
+Dieses Kapitel beschreibt die Installation des DPL (Digital Preservation Lab). Das ist eine virtuelle Umgebung mit allen Werkzeugen, die Sie in LEZY2 benötigen.&#x20;
 
 Die VM wird mit Hilfe eines Skripts automatisch installiert. Sie können sie jederzeit löschen und wieder neu installieren.&#x20;
 
@@ -20,15 +20,15 @@ Starten Sie den Installer und klicken Sie auf "Weiter", bis die Installation beg
 
 Nach der Installation starten Sie Virtualbox:
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 Gehen Sie auf Datei --> Einstellungen und öffnen Sie den Reiter "Zusatzpakete":
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (3).png>)
 
 KIicken Sie rechts auf das "+"-Zeichen und wählen Sie die Extension-Datei aus, die Sie ebenfalls heruntergeladen haben. Das Extension Pack wird installiert:
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 Virtualbox ist nun bereit.
 
@@ -52,4 +52,33 @@ Laden Sie das Git-Repository als ZIP-Datei herunter "Code" --> "Download ZIP"
 
 ![](<.gitbook/assets/image (6).png>)
 
-Entpacken Sie den ZIP-Container&#x20;
+Entpacken Sie den ZIP-Container: Rechtsklick, "Alles entpacken" auswählen;
+
+![](<.gitbook/assets/image (8).png>)
+
+Legen Sie in Ihrem Home-Directory einen neuen Ordner "DPL" an
+
+Kopieren Sie die Dateien "Vagrantfile" und "dpl\_provision.sh" in den Ordner "DPL".
+
+Im Ordner "DPL": Rechtsklick und "In Terminal öffnen"
+
+![](.gitbook/assets/image.png)
+
+Darauf öffnet sich die Windows Power Shell.
+
+Tippen Sie den Befehl "vagrant up" ein:
+
+![](<.gitbook/assets/image (2).png>)
+
+Nun wird die DPL-virtuelle Maschine aufgesetzt. In einem ersten Schritt wird eine Basis-Ubuntu-Maschine installiert. In einem zweiten Schritt werden per Skript alle Werkzeuge installiert.
+
+### DPL starten und einloggen
+
+Sie können die DPL-VM wahlweise mit "vagrant up" oder über die grafische Oberfläche von Virtualbox starten.
+
+User = vagrant
+
+Passwort = vagrant
+
+![](<.gitbook/assets/image (1).png>)
+
