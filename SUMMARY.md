@@ -1,7 +1,7 @@
 # Table of contents
 
 * [1 LEZY2 Einführung](README.md)
-* [Installation DPL](installation-dpl.md)
+  * [Installation DPL](1-lezy2-einfuehrung/installation-dpl.md)
 * [2 Records Management](2-records-management.md)
 * [3 Auskoppeln, Web-Archivierung und Images](3-auskoppeln-web-archivierung-und-images.md)
 * [4 Analyse von Primärdaten](4-analyse-von-primaerdaten/README.md)
