@@ -1,7 +1,7 @@
 # Table of contents
 
-* [1 LEZY2 Einführung](README.md)
-  * [Installation DPL](1-lezy2-einfuehrung/installation-dpl.md)
+* [1 Einführung](README.md)
+  * [Installation DPL](1-einfuehrung/installation-dpl.md)
 * [2 Records Management](2-records-management.md)
 * [3 Auskoppeln, Web-Archivierung und Images](3-auskoppeln-web-archivierung-und-images.md)
 * [4 Analyse von Primärdaten](4-analyse-von-primaerdaten/README.md)
@@ -10,9 +10,9 @@
   * [Dateicharakterisierung](4-analyse-von-primaerdaten/dateicharakterisierung.md)
 * [5 Ordnen und Verzeichnen](5-ordnen-und-verzeichnen.md)
 * [6 Vertrauenswürdige Archive](6-vertrauenswuerdige-archive.md)
-* [7 Bit Preservation](7-bit-preservation/README.md)
-  * [Speichersysteme](7-bit-preservation/speichersysteme.md)
-  * [Integrität und Checksummen](7-bit-preservation/integritaet-und-checksummen.md)
-  * [Dateisysteme](7-bit-preservation/dateisysteme.md)
+* [7 Bitstream Preservation](7-bitstream-preservation/README.md)
+  * [Speichersysteme](7-bitstream-preservation/speichersysteme.md)
+  * [Integrität und Checksummen](7-bitstream-preservation/integritaet-und-checksummen.md)
+  * [Dateisysteme](7-bitstream-preservation/dateisysteme.md)
 * [8 Emulation](8-emulation.md)
 * [9 Digital Humanities](9-digital-humanities.md)
