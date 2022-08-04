@@ -1,4 +1,8 @@
-# 3 Auskoppeln, Web-Archivierung und Images
+---
+description: Auskoppeln, Web-Archivierung und Images erstellen
+---
+
+# 3 Datenakquise
 
 ## Lernziele
 
