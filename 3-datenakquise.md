@@ -16,7 +16,7 @@ Webrecorder
 
 wget
 
-## Kopieren von Dateien mit rsnyc
+## Kopieren von Dateien mit rsync
 
 Eine wichtige Aufgabe in jedem digitalen Archiv ist das Anfertigen von Kopien, sie zu kontrollieren und sie zu gegebener Zeit auf neue Systeme zu übertragen. Die **gute Nachricht** ist: Wenn es eine Sache gibt, in der Computertechnologien wirklich gut sind, dann ist es das Kopieren. Die **schlechte Nachricht** ist: Wenn beim Kopieren Fehler auftreten, dann werden die oft erst sehr viel später erkannt und ein Rückgriff auf die Originale ist vielleicht nicht mehr möglich. DIe digitalen Objekte sind dann unwiederruflich verloren. Auch wenn das Kopieren von Daten als triviale Aufgabe erscheint, so setzen wir uns hier bewusst damit auseinander. Wichtig ist der folgende Unterschied:
 
@@ -38,14 +38,6 @@ Ein wichtiges Programm, um Daten zu kopieren und dabei auch die Integrität der 
 ```shell
 rsync [optionen] quelle ziel
 ```
-
-
-
-Teracopy
-
-dsf
-
-{% embed url="https://www.dpconline.org/handbook/tool-demos/teracopy-demo" %}
 
 ## Anlegen von Images mit dd
 
