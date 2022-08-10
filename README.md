@@ -1,2 +1,2 @@
-# 1LEZY2 Einführung
+# FHGR Modul LEZY2
 

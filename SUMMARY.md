@@ -1,6 +1,7 @@
 # Table of contents
 
-* [1 Einführung](README.md)
+* [FHGR Modul LEZY2](README.md)
+* [1 Einführung](<README (1).md>)
   * [Installation DPL](installation-dpl.md)
 * [2 Records Management](2-records-management.md)
 * [3 Datenakquise](3-datenakquise.md)

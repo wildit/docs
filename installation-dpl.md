@@ -2,9 +2,9 @@
 
 ## Einleitung
 
-Dieses Kapitel beschreibt die Installation des DPL (Digital Preservation Lab). Das ist eine virtuelle Umgebung mit allen Werkzeugen, die Sie in LEZY2 benötigen.&#x20;
+Dieses Kapitel beschreibt die Installation des DPL (Digital Preservation Lab). Das DPL ist eine virtuelle Maschine (VM) mit allen Werkzeugen, die wir für LEZY2 benötigen.&#x20;
 
-Die VM wird mit Hilfe eines Skripts automatisch installiert. Sie können sie jederzeit löschen und wieder neu installieren.&#x20;
+Die VM wird mit Hilfe eines Skripts automatisch installiert. Sie können sie jederzeit wieder löschen und neu aufsetzen lassen. Scheuen Sie sich also nicht, Dinge auszuprobieren. &#x20;
 
 ## Vorgehen
 
