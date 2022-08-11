@@ -24,7 +24,7 @@ Nach der Installation starten Sie Virtualbox:
 
 Gehen Sie auf Datei --> Einstellungen und öffnen Sie den Reiter "Zusatzpakete":
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (2).png>)
 
 KIicken Sie rechts auf das "+"-Zeichen und wählen Sie die Extension-Datei aus, die Sie ebenfalls heruntergeladen haben. Das Extension Pack wird installiert:
 
