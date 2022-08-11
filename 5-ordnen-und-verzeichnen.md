@@ -4,6 +4,10 @@
 
 Die Erschliessung (Ordnen und verzeichnen) von digitalen Unterlagen und Datenbeständen basiert auf der klassischen Archivarbeit. Allerdings gibt es bei den digitalen Unterlagen einige Besonderheiten zu berücksichtigen. Die folgenden Ausführungen enthalten keine komplette Wegleitung für die archivische Erschliessung, sondern lediglich Hinweise auf spezifische Herausforderungen, die bei der Erschliessung digitaler Unterlagen in ISAD(G) zu berücksichtigen sind.
 
+Können Sie sich noch an die Grundsätze der archivischen Erschliessung erinnern, die Sie in GLIW gelernt haben? Hier zur Auffrischung ein Film des Staatsarchivs Wallis in die Erschliessung eines Bestandes:
+
+{% embed url="https://www.youtube.com/watch?v=t7TjXgyN6fU" %}
+
 ## Vorgehen bei der Erschliessung
 
 ### Daten inhaltlich analysieren
@@ -22,7 +26,7 @@ Existiert bereits eine Ordnung, die Sie übernehmen können? Oder müssen Sie er
 
 Ein häufig gewähltes Vorgehen ist, dass Objekte wie eine Urkunde oder ein Film als **Dossiers** verzeichnet werden. Das analoge Original und die verschiedenen Digitalisate stellen dann verschiedene Repräsentationen dar, die auf Stufe **Einzelstück** verzeichnet werden.
 
-![Screenshot Historisches Archiv ABB Schweiz](<.gitbook/assets/image (2).png>)
+![Screenshot Historisches Archiv ABB Schweiz](<.gitbook/assets/image (2) (2).png>)
 
 Der obenstehende Screenshot zeigt das Archivinformationssystem des Historischen Archivs von ABB Schweiz.
 

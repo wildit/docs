@@ -16,7 +16,7 @@ Laden Sie sowohl das "Platform Package" für Ihr Betriebssystem wie auf das "Ext
 
 Starten Sie den Installer und klicken Sie auf "Weiter", bis die Installation beginnt:
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 Nach der Installation starten Sie Virtualbox:
 
@@ -50,7 +50,7 @@ Gehen Sie auf folgende Seite: [https://github.com/wildit/dpl-provision](https://
 
 Laden Sie das Git-Repository als ZIP-Datei herunter "Code" --> "Download ZIP"
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (1).png>)
 
 Entpacken Sie den ZIP-Container: Rechtsklick, "Alles entpacken" auswählen;
 
@@ -62,13 +62,13 @@ Kopieren Sie die Dateien "Vagrantfile" und "dpl\_provision.sh" in den Ordner "DP
 
 Im Ordner "DPL": Rechtsklick und "In Terminal öffnen"
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (10).png>)
 
 Darauf öffnet sich die Windows Power Shell.
 
 Tippen Sie den Befehl "vagrant up" ein:
 
-![](<.gitbook/assets/image (2) (2).png>)
+![](<.gitbook/assets/image (2) (2) (1).png>)
 
 Nun wird die DPL-virtuelle Maschine aufgesetzt. In einem ersten Schritt wird eine Basis-Ubuntu-Maschine installiert. In einem zweiten Schritt werden per Skript alle Werkzeuge installiert.
 

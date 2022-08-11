@@ -1,10 +1,12 @@
 # 2 Records Management
 
-## Lifecycle-Management
+## Einführung
 
 Text
 
-Records Manage
+### Nutzen von Records Management
+
+
 
 ## Records
 
@@ -18,6 +20,3 @@ Records Manage
 
 **Lernziele:** Sie lernen, was ein Geschäftsprozess ist und wie man die Prozesse einer Organisation kategorisieren kann. Sie lernen zudem, dass zur Strukturierung von Dossiers ein Ordnungssystem (Registraturplan) verwendet wird und werden erkennen, nach welchen Kriterien diese Strukturierung erfolgt
 
-## Organisationsvorschriften
-
-**Lernziel:** Sie erhalten eine Einführung, wie Organisationsvorschriften für Records Management üblicherweise strukturiert sind und wie sie erarbeitet werden.
