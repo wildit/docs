@@ -54,7 +54,7 @@ Laden Sie das Git-Repository als ZIP-Datei herunter "Code" --> "Download ZIP"
 
 Entpacken Sie den ZIP-Container: Rechtsklick, "Alles entpacken" auswählen;
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 Legen Sie in Ihrem Home-Directory einen neuen Ordner "DPL" an
 
@@ -62,13 +62,13 @@ Kopieren Sie die Dateien "Vagrantfile" und "dpl\_provision.sh" in den Ordner "DP
 
 Im Ordner "DPL": Rechtsklick und "In Terminal öffnen"
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (4).png>)
 
 Darauf öffnet sich die Windows Power Shell.
 
 Tippen Sie den Befehl "vagrant up" ein:
 
-![](<.gitbook/assets/image (2) (2) (1).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
 Nun wird die DPL-virtuelle Maschine aufgesetzt. In einem ersten Schritt wird eine Basis-Ubuntu-Maschine installiert. In einem zweiten Schritt werden per Skript alle Werkzeuge installiert.
 

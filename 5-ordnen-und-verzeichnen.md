@@ -26,7 +26,7 @@ Existiert bereits eine Ordnung, die Sie übernehmen können? Oder müssen Sie er
 
 Ein häufig gewähltes Vorgehen ist, dass Objekte wie eine Urkunde oder ein Film als **Dossiers** verzeichnet werden. Das analoge Original und die verschiedenen Digitalisate stellen dann verschiedene Repräsentationen dar, die auf Stufe **Einzelstück** verzeichnet werden.
 
-![Screenshot Historisches Archiv ABB Schweiz](<.gitbook/assets/image (2) (2).png>)
+![Screenshot Historisches Archiv ABB Schweiz](<.gitbook/assets/image (2).png>)
 
 Der obenstehende Screenshot zeigt das Archivinformationssystem des Historischen Archivs von ABB Schweiz.
 

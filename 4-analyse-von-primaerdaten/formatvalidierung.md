@@ -29,7 +29,7 @@ Quelle: [https://www.langzeitarchivierung.de/Webs/nestor/DE/Veranstaltungen\_und
 
 JHOVE ist in verschiedenen Versionen verfügbar, als Kommandozeilenwerzeug für die Einbindung in automatisierte Prozesse oder mit einer graphischen Oberfläche. Wir verwenden für die Übungen die Version mit graphischer Oberfläche. Im Terminal starten Sie JHOVE mit dem Befehl "jhove-gui":
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 Damit öffnet sich die graphische Oberfläche und Sie können über "File" --> "Open file" eine Datei zur Validierung auswählen. Eine weiterführende Anleitung zum Gebraucht von JHOVE ist in der oben angegebenen Präsentation von Yvonne Tunnat enthalten.
 
