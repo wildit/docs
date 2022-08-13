@@ -1,4 +1,4 @@
-# Dossierprinzip
+# Dossierbildung
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 
@@ -66,7 +66,7 @@ Thematische Gliederung, z. B. im Wissensmanagement&#x20;
 * Dokumentation&#x20;
 * Handbibliothek
 
-![Dossierbildung und Lifecyclemanagement nach Dossiertypen](<../.gitbook/assets/image (2).png>)
+![Dossierbildung und Lifecyclemanagement nach Dossiertypen](<../.gitbook/assets/image (2) (2).png>)
 
 
 

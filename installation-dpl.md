@@ -68,7 +68,7 @@ Darauf öffnet sich die Windows Power Shell.
 
 Tippen Sie den Befehl "vagrant up" ein:
 
-![](<.gitbook/assets/image (2) (2).png>)
+![](<.gitbook/assets/image (2) (2) (1).png>)
 
 Nun wird die DPL-virtuelle Maschine aufgesetzt. In einem ersten Schritt wird eine Basis-Ubuntu-Maschine installiert. In einem zweiten Schritt werden per Skript alle Werkzeuge installiert.
 

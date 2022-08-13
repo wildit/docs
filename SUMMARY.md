@@ -5,7 +5,7 @@
   * [Installation DPL](installation-dpl.md)
 * [2 Records Management](2-records-management.md)
   * [Records](2-records-management/records.md)
-  * [Dossierprinzip](2-records-management/dossierprinzip.md)
+  * [Dossierbildung](2-records-management/dossierbildung.md)
   * [Ordnungssystem](2-records-management/ordnungssystem.md)
 * [3 Datenakquisition](3-datenakquise.md)
 * [4 Analyse von Primärdaten](4-analyse-von-primaerdaten/README.md)
