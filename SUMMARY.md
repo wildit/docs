@@ -6,7 +6,7 @@
 * [2 Records Management](2-records-management.md)
   * [Records](2-records-management/records.md)
   * [Dossierprinzip](2-records-management/dossierprinzip.md)
-  * [Prozess und Ordnungssystem](2-records-management/prozess-und-ordnungssystem.md)
+  * [Ordnungssystem](2-records-management/ordnungssystem.md)
 * [3 Datenakquisition](3-datenakquise.md)
 * [4 Analyse von Primärdaten](4-analyse-von-primaerdaten/README.md)
   * [Formatidentifikation](4-analyse-von-primaerdaten/formatidentifikation.md)
@@ -20,3 +20,4 @@
   * [Dateisysteme](7-bit-preservation/dateisysteme.md)
 * [8 Emulation](8-emulation.md)
 * [9 Digital Humanities](9-digital-humanities.md)
+* [Glossar und Literatur](glossar-und-literatur.md)

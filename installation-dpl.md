@@ -16,7 +16,7 @@ Laden Sie sowohl das "Platform Package" für Ihr Betriebssystem wie auf das "Ext
 
 Starten Sie den Installer und klicken Sie auf "Weiter", bis die Installation beginnt:
 
-![](<.gitbook/assets/image (4) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1).png>)
 
 Nach der Installation starten Sie Virtualbox:
 
@@ -28,7 +28,7 @@ Gehen Sie auf Datei --> Einstellungen und öffnen Sie den Reiter "Zusatzpakete":
 
 KIicken Sie rechts auf das "+"-Zeichen und wählen Sie die Extension-Datei aus, die Sie ebenfalls heruntergeladen haben. Das Extension Pack wird installiert:
 
-![](<.gitbook/assets/image (3) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 Virtualbox ist nun bereit.
 
@@ -54,7 +54,7 @@ Laden Sie das Git-Repository als ZIP-Datei herunter "Code" --> "Download ZIP"
 
 Entpacken Sie den ZIP-Container: Rechtsklick, "Alles entpacken" auswählen;
 
-![](<.gitbook/assets/image (8) (1).png>)
+![](<.gitbook/assets/image (8) (1) (1).png>)
 
 Legen Sie in Ihrem Home-Directory einen neuen Ordner "DPL" an
 
@@ -62,7 +62,7 @@ Kopieren Sie die Dateien "Vagrantfile" und "dpl\_provision.sh" in den Ordner "DP
 
 Im Ordner "DPL": Rechtsklick und "In Terminal öffnen"
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 Darauf öffnet sich die Windows Power Shell.
 
@@ -80,5 +80,5 @@ User = vagrant
 
 Passwort = vagrant
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 

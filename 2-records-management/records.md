@@ -1,8 +1,10 @@
 # Records
 
+### Definition
+
 Im Records Management-Standard ISO 30300:2011 werden Records wie folgt definiert:&#x20;
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 "Information, die von einer Organisation oder Person bei der Erfüllung rechtlicher Verpflichtungen oder bei der Abwicklung von Geschäften **als Nachweis und als Wert** erstellt, erhalten und aufbewahrt wird bei der Erfüllung rechtlicher Verpflichtungen oder bei der Abwicklung von Geschäften."
 
@@ -10,6 +12,8 @@ Records…
 
 * dienen als **Nachweis** für einen Vorgang, z. B. Entscheidungsproduktion
 * und/oder stellen für die Organisation einen **Wert** dar.
+
+### Dokumente und Records
 
 <img src="../.gitbook/assets/image (7).png" alt="" data-size="original">
 
@@ -22,6 +26,8 @@ Die folgende E-Mail zeigt diesen Zusammenhang auf. Ohne weitere Informationen ka
 ![](<../.gitbook/assets/image (6).png>)
 
 
+
+### Evidenzwert
 
 Records transportieren somit nicht nur Inhalte sondern auch einen **Evidenzwert.** Der Evidenzwert fragt nach dem Kontext, also beispielsweise nach dem Prozessablauf, nach der Aufbauorganisation, in der sie entstanden sind, nach den Verantwortlichkeiten und der Provenienz. Die Evidenz ist der Nachweis für Fragen, die die Prozesse betreffen. Beispiele solcher Fragen sind:
 
@@ -44,4 +50,4 @@ Records manifestieren sich in ganz unterschiedlicher Form:&#x20;
 
 Zusammenfassung: Records sind Aufzeichnungen, die entweder einen Nachweis oder einen Wert darstellen.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
