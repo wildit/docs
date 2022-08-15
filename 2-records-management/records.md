@@ -15,15 +15,15 @@ Records…
 
 ### Dokumente und Records
 
-<img src="../.gitbook/assets/image (7).png" alt="" data-size="original">
-
 **Records sind Dokumente – aber längst nicht alle Dokumente sind auch Records.** Bei **Dokumenten** handelt es sich aus der Sicht des Records Management um die kleinste Einheit in einer Ablage, die abgeschlossen für sich alleinesteht und eindeutig identifizierbar ist. **Records** stellen eine geschäftsrelevante Teilmenge der Dokumente dar. Sie sind während Arbeits- und Entscheidungsprozessen entstanden. Sie stehen mit anderen Dokumenten in einem Zusammenhang, die die im gleichen Prozess entstanden sind. Records zeichnen das Handeln von Verwaltungen, Unternehmen oder anderen Organisationen auf. Records sind Informationsobjekte, die Menschen während ihrer Tätigkeit erzeugen, bearbeiten, weiterverarbeiten.
 
-Records zeichnen sich somit gegenüber anderen Dokumenten durch ihre Verbindung zu Prozessen aus – und nicht durch ihre Form. Ohne die Zuordnung zu einem Geschäftsprozess verlieren die Records ihren Wert. Sie sind nicht mehr kontextualisierbar. Records sollen zuverlässig Auskunft über einen Prozess geben. Daher wird in angelsächsischen Ländern gefordert, dass Records auch den Nachweis enthalten, dass sie integer und authentisch sind. Hier gilt daher oft: Records sind Dokumente, die in **"Recordkeeping"-Systemen** (digital oder analog) eingepflegt sind.
+<img src="../.gitbook/assets/image (7) (1).png" alt="" data-size="original">
 
-Die folgende E-Mail zeigt diesen Zusammenhang auf. Ohne weitere Informationen kann sie keinem Geschäftskontext zugeordnet werden. Für sich alleine ist dieses Dokument kein Record. Wenn wir aber zusätzlich wissen, dass die E-Mail den Entscheid zur Durchführung eines Projekts dokumentiert, dann handelt es sich um einen Record.
+**Records zeichnen sich somit gegenüber anderen Dokumenten durch ihre Verbindung zu Prozessen aus – und nicht durch ihre Form.** Ohne die Zuordnung zu einem Geschäftsprozess verlieren die Records ihren Wert. Sie sind nicht mehr kontextualisierbar. Records sollen zuverlässig Auskunft über einen Prozess geben. Daher wird in angelsächsischen Ländern gefordert, dass Records auch den Nachweis enthalten, dass sie integer und authentisch sind. Hier gilt daher oft: Records sind Dokumente, die in **"Recordkeeping"-Systemen** (digital oder analog) eingepflegt sind.
 
-![](<../.gitbook/assets/image (6) (2).png>)
+Die folgende E-Mail zeigt diesen Zusammenhang auf. Ohne weitere Informationen kann sie keinem Geschäftskontext zugeordnet werden. Für sich alleine ist dies ein Dokument, aber kein Record. Wenn wir aber zusätzlich wissen, dass diese E-Mail den Entscheid zum Start eines lange vorbereiteten Projekts dokumentiert, dann können wir sie als Record einstufen.
+
+![](<../.gitbook/assets/image (6).png>)
 
 
 

@@ -1,6 +1,6 @@
 # Dossierbildung
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ### **Definition**
 
@@ -15,13 +15,13 @@ Dossiers sind logische oder physische Behältnisse, sie bilden eine Klammer um d
 
 Wichtig ist, dass Dossiers über den Lebenszyklus hinweg mit adäquaten Werkzeugen verwaltet werden können. Die Anforderungen ändern sich je nach Lebensphase. In der **aktiven Phase** braucht es Systeme, die mit zahlreichen Änderungen umgehen und beispielsweise kollaborative Arbeitsinstrumente zur Verfügung stellen. In der **passiven Phase** (Aufbewahrung, Archivierung) geht es darum, die Authentizität und Integrität der Dossiers zu schützen. Wichtig ist also, dass die Produktivsysteme der aktiven Phase in der Lage sind, die Daten und Metadaten von Dossiers zu exportieren und an ein Archivsystem (OAIS) zu übergeben. Manche Hersteller von GEVER-Systemen und Fachapplikationen sehen diese Notwendigkeit nicht ein und propagieren, dass sie auch "Archivierungsmodule" zur Verfügung stellen. Eine applikationsunabhängige Archivierung ist aber so nicht möglich. Im Gegenteil: Diese Systemhersteller bauen einen ummauerten Garten um die Daten und machen die Datenakquise für das Archiv um so schwieriger (Siehe Kp. 3)
 
-![Manche Systemhersteller bauen einen ummauerten Garten (https://en.wikipedia.org/wiki/File:Edzell\_garden.JPG)](<../.gitbook/assets/image (8).png>)
+![Manche Systemhersteller bauen einen ummauerten Garten (https://en.wikipedia.org/wiki/File:Edzell\_garden.JPG)](<../.gitbook/assets/image (8) (2).png>)
 
 Dossiers werden zeitlich beschränkt aktiv bewirtschaftet. Sie sind dynamisch, das heisst sie werden eröffnet, angereichert, verändert und irgendwann, wenn ein Geschäft abgeschlossen ist, auch wieder abgeschlossen. Dossiers haben also immer einen Beginn und ein Ende. Es gibt keine "ewigen" Dossiers.
 
 Das **Lebenszyklusmodell der Kantonsverwaltung Wallis** veranschaulicht dies. Die Dossiers sind während einer bestimmten Dauer für die Nutzung offen. Dann werden sie geschlossen und unterliegen der Aufbewahrung. Die Grafik zeigt auch, mit wie vielfältigen Typen von Dokumenten und Daten in der Verwaltung gearbeitet wird. Das Staatsarchiv muss in der Lage sein, diese schliesslich übernehmen zu können.
 
-![Lebenszyklus Kantonsverwaltung Wallis (https://www.vs.ch/de/web/culture/guide-administration-introduction)](../.gitbook/assets/image.png)
+![Lebenszyklus Kantonsverwaltung Wallis (https://www.vs.ch/de/web/culture/guide-administration-introduction)](<../.gitbook/assets/image (9).png>)
 
 ### Geschäft und Dossier
 

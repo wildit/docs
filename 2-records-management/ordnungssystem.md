@@ -23,11 +23,11 @@ _"A 'Process' can be defined as a 'set of interrelated or interacting activities
 
 Ein Prozess setllt somit eine Kette miteinander verbundener Aktivitäten dar mit einem Input als Ausgangslage und einem Output als Ziel. Während dem Prozess werden&#x20;
 
-![Quelle: https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/04\_concept\_and\_use\_of\_the\_process\_approach\_for\_management\_systems.pdf](<../.gitbook/assets/image (10).png>)
+![Quelle: https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/04\_concept\_and\_use\_of\_the\_process\_approach\_for\_management\_systems.pdf](<../.gitbook/assets/image (10) (2).png>)
 
 Beispielsweise kann der Rekrutierungs- und Anstellungsprozess eines Unternehmens wie folgt als eine Abfolge von Aktivitäten dargestellt werden:
 
-![Anstellungsprozess der Loomis Schweiz AG (https://www.loomis.ch/de/jobs-karriere/jobs-loomis/anstellungsprozess)](<../.gitbook/assets/image (6).png>)
+![Anstellungsprozess der Loomis Schweiz AG (https://www.loomis.ch/de/jobs-karriere/jobs-loomis/anstellungsprozess)](<../.gitbook/assets/image (13).png>)
 
 Aus diesem Diagramm wird ersichtlich:&#x20;
 
@@ -58,7 +58,7 @@ Ordnungssysteme sind hierarchisch gegliedert. Die Prozesse werden in drei Katego
 * **Hauptgruppe 2-8:** Kernprozesse
 * **Hauptgruppe 9:** Verschiedenes/Weitere Aufgaben
 
-![Gliederung des Ordnungssystems in Prozesskategorien (Bund, Arbeitshilfe GEVER 2020)](<../.gitbook/assets/image (1).png>)
+![Gliederung des Ordnungssystems in Prozesskategorien (Bund, Arbeitshilfe GEVER 2020)](<../.gitbook/assets/image (11).png>)
 
 Die Arbeit
 
@@ -70,11 +70,11 @@ Die unterste, stabile Ebene in einem Ordnungssystem ist die Rubrik (das, was auf
 
 Darunter liegen die Dossiers – für jeden Geschäft wird ein eigenes Dossier gebildet. Die Dossiers bilden den **dynamischen Teil der Aktenablage** und werden entsprechend der Geschäfte neu eröffnet, bewirtschaftet und abgeschlossen.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 Die **Grenze** zwischen Ordnungssystem und Dossiers ist nicht eindeutig, sondern muss während der Erarbeitung eines Ordnungssystems bestimmt werden. Je nach Gleichförmigkeit der Geschäfte kann das Ordnungssstem mehr oder weniger detailliert ausfallen. Ein Ordnungssystem kann aber auch revidiert werden, wenn sich die Abgrenzung in der Praxis als untauglich herausstellt.  &#x20;
 
-![Abgrenzung zwischen Ordnungssystem und Dossierablage (Bund, Arbeitshilfe GEVER 2020)](<../.gitbook/assets/image (5).png>)
+![Abgrenzung zwischen Ordnungssystem und Dossierablage (Bund, Arbeitshilfe GEVER 2020)](../.gitbook/assets/image.png)
 
 Quellen:
 

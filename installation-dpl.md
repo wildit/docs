@@ -28,7 +28,7 @@ Gehen Sie auf Datei --> Einstellungen und öffnen Sie den Reiter "Zusatzpakete":
 
 KIicken Sie rechts auf das "+"-Zeichen und wählen Sie die Extension-Datei aus, die Sie ebenfalls heruntergeladen haben. Das Extension Pack wird installiert:
 
-![](<.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 Virtualbox ist nun bereit.
 
@@ -40,7 +40,7 @@ Laden Sie die aktuelle "Amd64"-Version herunter
 
 Starten Sie den Installer, klicken Sie auf "Weiter", bis die Installation beginnt:
 
-![](<.gitbook/assets/image (5) (1).png>)
+![](<.gitbook/assets/image (5).png>)
 
 Die Installation dauert einige Minuten, danach muss der Computer neu gestartet werden.
 

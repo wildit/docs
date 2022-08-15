@@ -20,7 +20,7 @@ Der Standard **ISO 15489** definiert organisatorische Anforderungen an RM. Dazu 
 
 Eine geordnete Aktenführung stellt erst einmal einen Aufwand dar, demgegenüber steht aber ein groser Nutzen. Der ISO-Standard 15489 "Records Management", in deutscher Übersetzung mit dem Titel "Schriftgutverwaltung", nennt folgenden Nutzen von Records Management:&#x20;
 
-![Nutzen von Records Management gemäss ISO 15489 (DIN ISO 15489-1:2002-12, deutsche Fassung, p. 9)](<.gitbook/assets/image (1) (4).png>)
+![Nutzen von Records Management gemäss ISO 15489 (DIN ISO 15489-1:2002-12, deutsche Fassung, p. 9)](<.gitbook/assets/image (1) (1).png>)
 
 
 
