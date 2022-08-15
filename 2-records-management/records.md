@@ -2,7 +2,7 @@
 
 ### Definition
 
-Im Records Management-Standard ISO 30300:2011 werden Records wie folgt definiert:&#x20;
+Records sind die kleinsten Einheiten in der Aktenführung. Im Records Management-Standard ISO 30300:2011 werden sie wie folgt definiert:&#x20;
 
 ![](<../.gitbook/assets/image (10) (1).png>)
 
@@ -23,7 +23,7 @@ Records zeichnen sich somit gegenüber anderen Dokumenten durch ihre Verbindung 
 
 Die folgende E-Mail zeigt diesen Zusammenhang auf. Ohne weitere Informationen kann sie keinem Geschäftskontext zugeordnet werden. Für sich alleine ist dieses Dokument kein Record. Wenn wir aber zusätzlich wissen, dass die E-Mail den Entscheid zur Durchführung eines Projekts dokumentiert, dann handelt es sich um einen Record.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
