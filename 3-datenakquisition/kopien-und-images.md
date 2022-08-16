@@ -13,7 +13,7 @@
 
 Der Datei-basierte Ansatz kommt zur Anwendung, wenn einzelnen Dateien als Objekte erhalten werden sollen und der technische Kontext des Datenträgers keine archivrelevanten Informationen trägt. Beispielsweise werden Dossiers aus einem GEVER-System mit einem Dateibasierten Ansatz ins Archiv übernommen. Der Image-Ansatz kommt zur Anwendung, wenn ein komplexes digitales Objekt, ein gesamtes technisches System oder eine bestimmte Arbeitsweise archiviert und dokumentiert werden soll.
 
-**Beispielsweise wurden die alten Laptops und Datenträger des Schriftstellers Salman Rushdie mit einem Image-Ansatz gesichert.** Der Autor verwendete intensiv farbige sogenannte "Sticky Notes" zum Anlegen farbkodierter Notizen, ein Hilfsprogramm des damaligen Mac-Betriebssystems. Bei diesen Notizen sollen nicht einzelne isolierte Dateien archiviert werden, sondern eine grosse Post It-Sammlung als Ganzes. Dank dem Image-Ansatz können die Computer von Rushdie im Lesesaal als Emulation den Nutzer\*innen zugänglich gemacht werden, die so nicht nur die Produkte (Dateien) analysieren, sondern auch die spezielle Arbeitsweise des Autors erforschen können.
+**Beispielsweise wurden die alten Laptops und Datenträger des Schriftstellers Salman Rushdie mit einem Image-Ansatz gesichert.** Der Autor verwendete zahlreiche farbcodierte "Sticky Notes" zum Anlegen von Notizen, "Sticky Notes" war ein Hilfsprogramm des damaligen Mac-Betriebssystems. Für die Archivierung sollten nicht einzelne isolierte Dateien wegkopiert werden, sondern die umfangreiche Post It-Sammlung als Ganzes erfahrbar gemacht werden. Dank der Erstellung eines Images der kompletten Harddisks von Rushdies Computer können diese im Lesesaal via Emulation den Nutzer\*innen zugänglich gemacht werden. So erfolgt der Zugang nicht auf die einzelnen Dateien, sondern es kann die spezielle Arbeitsweise des Autors erforscht und nachvollzogen werden.
 
 ![Laptops und Datenträger von Salman Rushdie (https://scholarblogs.emory.edu/woodruff/rose-library/do-it-yourself-digital-preservation)](<../.gitbook/assets/image (12).png>)
 
@@ -21,11 +21,15 @@ Quelle zur Emulation der Rushdie-Laptops: [https://scholarblogs.emory.edu/woodru
 
 ## Schreibblocker
 
-**Die zu archivierenden Datenträger dürfen mit dem Kpoiervorgang nicht verändert werden, vor allem nicht, wenn bitgenaue Images erstellt werden.** Wenn transportable Datenträger beispielsweise über einen USB-Port angeschlossen werden, dann schreibt das Betriebssystem Metadaten oder verborgene Dateien (z. B. Thumbnail-Dateien für Bilddateien) auf den Datenträger. Zudem besteht die Gefahr, dass Daten versehentlich verändert oder gelöscht werden.
+**Die zu archivierenden Datenträger dürfen mit dem Kpoiervorgang nicht verändert werden, vor allem nicht, wenn bitgenaue Images erstellt werden.** Wenn transportable Datenträger über einen USB-Port angeschlossen werden, dann schreibt das Betriebssystem Metadaten oder verborgene Dateien (z. B. Thumbnail-Dateien für Bilddateien) auf den Datenträger. Zudem besteht die Gefahr, dass Daten versehentlich verändert oder gelöscht werden.
 
-**Um solche Veränderungen zu verhindern, werden Schreibblocker verwendet.** Das sind Mechanismen, die zwar den Lesezugriff auf Datenträger erlauben, aber das Schreiben verhindern. Solche Schreibblocker gibt es als Software oder als Hardware. Entwickelt wurden sie ursprünglich für die digitale Forensik, wenn im Rahmen von Ermittlungen oder Analysen Datenträger (beispielsweise Mobiltelefone) ausgelesen werden und gleichzeitig nachgewiesen werden muss, dass keine Veränderung des Speichers stattgefunden hat. &#x20;
+**Um solche Veränderungen zu verhindern, werden Schreibblocker verwendet.** Das sind Mechanismen, die zwar den Lesezugriff auf Datenträger erlauben, aber das Schreiben verhindern. Solche Schreibblocker gibt es als Software oder als Hardware. Entwickelt wurden sie ursprünglich für die digitale Forensik, wenn im Rahmen von Ermittlungen oder Analysen Datenträger (beispielsweise Mobiltelefone) ausgelesen werden und nachgewiesen werden muss, dass keine Veränderung des Speichers stattgefunden hat. &#x20;
 
 ![Schreibblocker zwischen 2.5"-Harddisk und Computer](../.gitbook/assets/image.png)
+
+Hier wird die Arbeitsweise von Schreibblockern demonstriert:
+
+{% embed url="https://www.youtube.com/watch?v=Kmm8iaa76rQ&ab_channel=DFIRScience" %}
 
 ## Werkzeuge für Kopien und Images
 

@@ -2,9 +2,9 @@
 
 ## Einführung
 
-Die Erschliessung (Ordnen und verzeichnen) von digitalen Unterlagen und Datenbeständen basiert auf der klassischen Archivarbeit. Allerdings gibt es bei den digitalen Unterlagen einige Besonderheiten zu berücksichtigen. Die folgenden Ausführungen enthalten keine komplette Wegleitung für die archivische Erschliessung, sondern lediglich Hinweise auf spezifische Herausforderungen, die bei der Erschliessung digitaler Unterlagen in ISAD(G) zu berücksichtigen sind.
+**Die Erschliessung (Ordnen und verzeichnen) von digitalen Unterlagen und Datenbeständen basiert auf der klassischen Archivarbeit.** Allerdings gibt es bei den digitalen Unterlagen einige Besonderheiten zu berücksichtigen. Die folgenden Ausführungen enthalten keine komplette Wegleitung für die archivische Erschliessung, sondern lediglich Hinweise auf spezifische Herausforderungen, die bei der Erschliessung digitaler Unterlagen in ISAD(G) zu berücksichtigen sind.
 
-Erinnern Sie sich noch an die Grundsätze der archivischen Erschliessung, die Sie im Modul GLIW gelernt haben? Hier zur Auffrischung ein Film des Staatsarchivs Wallis in die Erschliessung eines Bestandes:
+**Erinnern Sie sich noch an die Grundsätze der archivischen Erschliessung, die Sie im Modul GLIW gelernt haben?** Hier zur Auffrischung ein Film des Staatsarchivs Wallis über die Erschliessung eines Bestandes:
 
 {% embed url="https://www.youtube.com/watch?v=t7TjXgyN6fU" %}
 
@@ -12,9 +12,11 @@ Erinnern Sie sich noch an die Grundsätze der archivischen Erschliessung, die Si
 
 ### Daten inhaltlich analysieren
 
-Recherchieren Sie den Kontext des Datenbestandes und des Urherbers der Daten. In welchem Zusammenhang snd die Daten entstanden? Von wem stammen sie (Provenienz)? Welchen Lebenszyklus haben sie durchlaufen und warum wurden sie als archivwürdig eingestuft?
+**Recherchieren Sie den Kontext des Datenbestandes und des Urherbers der Daten.** In welchem Zusammenhang snd die Daten entstanden? Von wem stammen sie (Provenienz)? Welchen Lebenszyklus haben sie durchlaufen und warum wurden sie als archivwürdig eingestuft?
 
 Diese übergeordneten Angaben zum Kontext der Daten gehören in die Bestandesbeschreibung.
+
+
 
 ### Ordnung bestimmen
 
