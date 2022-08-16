@@ -1,6 +1,6 @@
 # 2 Records Management
 
-## Einführung
+### Einführung
 
 **Records Management bezeichnet die geordnete Aktenführung, respektive Schriftgutverwaltung.** Geordnet bedeutet, dass die Unterlagen über den gesamten Lebenszyklus hinweg kontrolliert werden, also von der Erstellung/Entgegennahme über die Ablage, Aufbewahrung, Nutzung, bis zur Aussonderung mit Löschung oder Archivierung.
 

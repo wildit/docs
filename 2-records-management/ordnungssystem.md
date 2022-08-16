@@ -74,7 +74,7 @@ Darunter liegen die Dossiers – für jeden Geschäft wird ein eigenes Dossier g
 
 Die **Grenze** zwischen Ordnungssystem und Dossiers ist nicht eindeutig, sondern muss während der Erarbeitung eines Ordnungssystems bestimmt werden. Je nach Gleichförmigkeit der Geschäfte kann das Ordnungssstem mehr oder weniger detailliert ausfallen. Ein Ordnungssystem kann aber auch revidiert werden, wenn sich die Abgrenzung in der Praxis als untauglich herausstellt.  &#x20;
 
-![Abgrenzung zwischen Ordnungssystem und Dossierablage (Bund, Arbeitshilfe GEVER 2020)](../.gitbook/assets/image.png)
+![Abgrenzung zwischen Ordnungssystem und Dossierablage (Bund, Arbeitshilfe GEVER 2020)](<../.gitbook/assets/image (9).png>)
 
 Quellen:
 

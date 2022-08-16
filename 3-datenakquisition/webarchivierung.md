@@ -53,7 +53,7 @@ Wget ist auf dem DPL vorinstalliert.
 
 **Webrecorder ist ein Werkzeug für transaktionsbasierte Archivierung von Websites.** Das Werkzeug eignet sich besonders für Webseiten, die dynamische Elemente beinhalten, die direkt auf den Benutzer zugeschnitten werden. Webrecorder wird eingesetzt, wenn die statischen Crawler wie Heritrix oder wget nur unbefriedigende Resultate liefern. Oder es wird komplementär zu diesen eingesetzt, um die Interaktion wie Suche, Eingaben, Abrufen von Tönen und Videos nachvollziehbar zu machen. Webrecorder erstellt keine kompletten Crawls von Websites, sondern dokumentiert das individuelle Benutzererlebnis beim Browsen auf einer Website.&#x20;
 
-Webrecorder ist ein Browser-Plugin im Chrome- oder Chromium-Browser. Als Resultat werden WARC-Dateien erzielt. Das Plugin kann über den folgenden Link installiert werden: [https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd](https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd)
+**Webrecorder ist ein Browser-Plugin im Chrome- oder Chromium-Browser.** Als Resultat werden WARC-Dateien erzeugt. Das Plugin kann über den folgenden Link installiert werden: [https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd](https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd)
 
 Zur Archivierung wird ein neues Archiv angelegt: "Create New Archive"
 
@@ -61,7 +61,7 @@ Zur Archivierung wird ein neues Archiv angelegt: "Create New Archive"
 
 {% embed url="https://jitp.commons.gc.cuny.edu/how-i-learned-how-to-stop-worrying-and-pickle-websites-the-art-of-fermenting-the-web-with-archive-it-and-webrecorder/" %}
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 
 
@@ -75,7 +75,7 @@ Der Crawl wird über den "Stop"-Button angehalten. Über "View Recorded Page" ka
 
 Zur offsite-Speicherung kann der Crawl dann auch als WARC-paket heruntergeladen werden:
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (3).png>)
 
 
 

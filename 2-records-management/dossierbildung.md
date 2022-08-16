@@ -21,7 +21,7 @@ Dossiers werden zeitlich beschränkt aktiv bewirtschaftet. Sie sind dynamisch, d
 
 Das **Lebenszyklusmodell der Kantonsverwaltung Wallis** veranschaulicht dies. Die Dossiers sind während einer bestimmten Dauer für die Nutzung offen. Dann werden sie geschlossen und unterliegen der Aufbewahrung. Die Grafik zeigt auch, mit wie vielfältigen Typen von Dokumenten und Daten in der Verwaltung gearbeitet wird. Das Staatsarchiv muss in der Lage sein, diese schliesslich übernehmen zu können.
 
-![Lebenszyklus Kantonsverwaltung Wallis (https://www.vs.ch/de/web/culture/guide-administration-introduction)](<../.gitbook/assets/image (9).png>)
+![Lebenszyklus Kantonsverwaltung Wallis (https://www.vs.ch/de/web/culture/guide-administration-introduction)](<../.gitbook/assets/image (9) (3).png>)
 
 ### Geschäft und Dossier
 
