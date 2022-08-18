@@ -1,6 +1,6 @@
 # 1 Einführung
 
-**Das Modul LEZY2 (Lebenszyklusmanagement 2) vermittelt Ihnen die praktischen Aspekte von digitaler Archivierung.** Die theoretischen Grundlagen wurden im Modul LEZY1 vermittelt. Dazu gehörten:
+**Das Modul LEZY2 (Lebenszyklusmanagement 2) vermittelt Ihnen die praktischen Aspekte von digitaler Archivierung.** Die relevanten theoretischen Grundlagen haben Sie im Modul LEZY1 gelernt:
 
 * Verschiedene Lebenszyklusmodelle (Linear, Continuum)
 * Das OAIS-Modell und zwar mit dem funktionalen Modell und dem Informationsmodell

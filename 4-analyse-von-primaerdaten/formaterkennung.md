@@ -2,9 +2,19 @@
 
 **Die Formaterkennung identifiziert das Format und die Formatversion einer Datei.** Sie stützt sich dabei auf besonders charakteristische Eigenschaften. In der Regel sind dies bestimmte Bytesequenzen innerhalb der Datei. Die verlässliche Formaterkennung ist im Rahmen der digitalen Archivierung eine wichtige Grundlage für die Erhaltungsplanung (Preservation Planning). Denn nur wenn bekannt ist, welche Formate im Archiv vorhanden sind, können auch Massnahmen zur Nutzbarhaltung ergriffen werden.
 
-Der folgende nestor-Präsentation gibt Ihnen die Grundlagen zum Thema Formaterkennung:
+Der folgende Präsentation von Micky Lindlar (TIB Hannover) liefert Ihnen die Grundlagen zum Thema Formaterkennung:
 
 {% embed url="https://www.youtube.com/watch?v=DlK_bCuz4OA&ab_channel=nestor-digitaleLangzeitarchivierung" %}
+
+Inhalt:&#x20;
+
+* WAS ist Dateiformatidentifizierung?
+* WARUM überhaupt Dateiformatidentifizierung?
+* WIE geht Dateiformatidentifizierung?&#x20;
+* WOMIT kann ich Dateiformatidentifizierung durchführen?&#x20;
+* Alles klar! Kann überhaupt noch was schieflaufens?
+
+
 
 Die Slides der Präsentation können Sie unter folgendem Link herunterladen:
 
