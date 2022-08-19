@@ -16,7 +16,7 @@ Bei der **clientseitigen Archivierung** wird die Webseite so aufgezeichnet, wie 
 
 Bei der **transaktionsbasierten Archivierung** wird der Datenstrom zwischen Webserver und Benutzer aufgezeichnet, in manchen Fällen auch zwischen Benutzer und Webserver. Diese Vorgehensweise eignet sich besonders gut, um beispielsweise die Interaktion mit einer dynamischen Website zu dokumentieren. Diese Archivstrategie macht nachvollziehbar, wie eine Website benutzt wird. Allerdings werden nur Ressourcen archiviert, die bei der Archivierung auf tatsächlich aufgerufen werden.
 
-![Transaktionsbaiserte Archivierung (Masanès (2006), p. 27)](<../.gitbook/assets/image (17).png>)
+![Transaktionsbaiserte Archivierung (Masanès (2006), p. 27)](<../.gitbook/assets/image (17) (1).png>)
 
 Bei der **serverseitigen Archivierung** werden die Ressourcen archiviert, noch bevor sie über den Webserver ausgeliefert werden. Bei deser Archivstrategie werden unterschiedliche Komponenten wie Datenbank, Dateiserver, Programmcode, HTML-Quellcode etc. einzeln archiviert. Der Vorteil dieser Methode ist, dass auch Ressourcen archiviert werden, die nicht verlinkt sind und nie über den Webserver ausgeliefert werden. Allerdings stellt die Wiederherstellung einer funktionierenden Kopie der Website eine grosse Herausforderung dar. Ein Vorgehen zur Nutzung der archivierten Website ist die Wiederherstellung der verschiedenen Server und der Netzwerktopologie in einer emulierte Serverumgebung.
 
