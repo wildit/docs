@@ -15,7 +15,7 @@ Der Datei-basierte Ansatz kommt zur Anwendung, wenn einzelnen Dateien als Objekt
 
 **Beispielsweise wurden die alten Laptops und Datenträger des Schriftstellers Salman Rushdie mit einem Image-Ansatz gesichert.** Der Autor verwendete zahlreiche farbcodierte "Sticky Notes" zum Anlegen von Notizen, "Sticky Notes" war ein Hilfsprogramm des damaligen Mac-Betriebssystems. Für die Archivierung sollten nicht einzelne isolierte Dateien wegkopiert werden, sondern die umfangreiche Post It-Sammlung als Ganzes erfahrbar gemacht werden. Dank der Erstellung eines Images der kompletten Harddisks von Rushdies Computer können diese im Lesesaal via Emulation den Nutzer\*innen zugänglich gemacht werden. So erfolgt der Zugang nicht auf die einzelnen Dateien, sondern es kann die spezielle Arbeitsweise des Autors erforscht und nachvollzogen werden.
 
-![Laptops und Datenträger von Salman Rushdie (https://scholarblogs.emory.edu/woodruff/rose-library/do-it-yourself-digital-preservation)](<../.gitbook/assets/image (12).png>)
+![Laptops und Datenträger von Salman Rushdie (https://scholarblogs.emory.edu/woodruff/rose-library/do-it-yourself-digital-preservation)](<../.gitbook/assets/image (12) (2).png>)
 
 Quelle zur Emulation der Rushdie-Laptops: [https://scholarblogs.emory.edu/woodruff/news/the-digital-archives-program-settles-in-to-marbl](https://scholarblogs.emory.edu/woodruff/news/the-digital-archives-program-settles-in-to-marbl)
 

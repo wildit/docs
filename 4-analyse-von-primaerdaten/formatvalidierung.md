@@ -19,7 +19,7 @@ Quelle: [https://www.langzeitarchivierung.de/Webs/nestor/DE/Veranstaltungen\_und
 
 ### JHOVE
 
-[JHOVE](https://jhove.openpreservation.org/) ist ein weit verbreitetes Validierungswerkzeug, das in fast allen digitalen Archiven verwendet wird. JHOVE vereinigt [insgesamt zwölf Module](https://jhove.openpreservation.org/modules/) zur Validierung unterschiedlicher Dateiformatfamilien in einem einzigen Werkzeug, damit ist es sehr mächtig. Die wichtigsten Module dienen zur Validierung folgender Dateitypen:
+[JHOVE](https://jhove.openpreservation.org/) ist ein weit verbreitetes Validierungswerkzeug, das in fast allen digitalen Archiven verwendet wird. JHOVE vereinigt [insgesamt zwölf Module](https://jhove.openpreservation.org/modules/) zur Validierung unterschiedlicher Dateiformatfamilien in einem einzigen Werkzeug, damit ist es sehr mächtig. Die wichtigsten Module dienen zur Validierung folgender Dateifamilien mit diversen Unterformaten:
 
 * JPEG
 * JPEG2000
@@ -29,7 +29,7 @@ Quelle: [https://www.langzeitarchivierung.de/Webs/nestor/DE/Veranstaltungen\_und
 
 JHOVE ist in verschiedenen Versionen verfügbar, als Kommandozeilenwerzeug für die Einbindung in automatisierte Prozesse oder mit einer graphischen Oberfläche. Wir verwenden für die Übungen die Version mit graphischer Oberfläche. Im Terminal starten Sie JHOVE mit dem Befehl "jhove-gui":
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+`jhove-gui`
 
-Damit öffnet sich die graphische Oberfläche und Sie können über "File" --> "Open file" eine Datei zur Validierung auswählen. Eine weiterführende Anleitung zum Gebraucht von JHOVE ist in der oben angegebenen Präsentation von Yvonne Tunnat enthalten.
+So öffnet sich die graphische Oberfläche und Sie können über "File" --> "Open file" eine Datei zur Validierung auswählen. Eine weiterführende Anleitung zum Gebraucht von JHOVE ist in der oben angegebenen Präsentation von Yvonne Tunnat enthalten.
 

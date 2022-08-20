@@ -2,16 +2,21 @@
 
 ## Einführung
 
-Bei der Dateicharakterisierung werden möglichst viele Details zum Format und den Eigenschaften einer Datei ermittelt. Diese Metadaten geben Auskunft über den Charakter und die Qualität einer Datei un dienen auch als Grundlage für die&#x20;
+**Bei der Dateicharakterisierung werden Informationen zum Format und zu den Eigenschaften einer Datei ermittelt.** Diese Metadaten geben Auskunft über den Charakter und die Qualität einer Datei und dienen bei der Archivierung Grundlage für die Qualitätsprüfung beim Ingest, für das Preservation Planning (Erhaltungsplanung) und schliesslich für die Durchführung von Preservation Actions (bestandeserhaltende Massnahmen). Bei einem Grossteil der Metadaten handelt es sich um technisch/administrative Information, zum Teil fliessen sie aber auch in die inhaltliche Erschliessung ein.
 
-Je nach Dateityp können folgende Charaktereigenschaften ermittelt werden (Auswahl):
+Folgende typische Charaktereigenschaften können bei praktisch allen Dateitypen ermittelt werden:
 
-* Dateiformat, Formatversion
-* Kompressionsalgorithmen
-* Auflösung
-* Farbraum
-* Eingebettete Schrifttypen
-* Ersteller-Applikation
+* Dateiname (wird als Metadatum festgehalten, weil eine Änderung des Dateinamens keine Auswirkung auf die Checksumme hat).
+* Dateipfad
+* Erzeugungsdatum, Änderungsdaten
+* Benutzerrechte (wer hat in welcher Rolle welche Rechte)
+* Dateiformat, Formatversion, MIME-Type
+* Dateigrösse
+* Erzeugende Software
+* Copyright, andere Rechte
+* Art der Kompression (falls es sich um eine komprimierte Datei handelt)
+
+Mit den im Folgenden angegeben Werkzeugen können grosse Mengen von technischen Metadaten ermittelt werden. Ziel für die Langzeitarchivierung ist es jedoch nicht, möglich viele Metadaten zu ermitteln, sondern es sollen genau die Metadaten gespeichert werden, die Rückschlüsse auf die Qualität und eine mögliche Obsoleszenz der Dateiformate geben. **Mit anderen Worten: Archive speichern soviel wie nötig und nicht soviel wie möglich technische Metadaten!**
 
 ## PDF
 
@@ -69,6 +74,15 @@ Megapixels                      : 4.1
 
 
 ## Video
+
+Video ist eine besonders anspruchsvolle Formatfamilie. Eine Videodatei setzt sich zusammen aus:
+
+* dem Container
+* dem Codec
+
+Video ist in den meisten Fällen komprimiert. Die Kompression kann entweder einzelne Bilder (= Frames) betreffen, dann spricht man von Intraframe-Kompression. Oder sie kann über mehrere Bilder hinweg stattfinden, dann spricht man von Interframe-Kompression. Folgendes Video erklärt, wie Videodateien aufgebaut sind:&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=-4NXxY4maYc&ab_channel=ExplainingComputers" %}
 
 FFV1, unkomprimiert DPX
 

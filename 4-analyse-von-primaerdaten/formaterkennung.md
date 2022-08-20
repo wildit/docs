@@ -28,12 +28,12 @@ Die Slides der Präsentation können Sie unter folgendem Link herunterladen:
 
 ### Identifikation mit file
 
-**file ist ein Kommandozeilenprogramm in Linux, welches das Format einer Datei erkennt.** Dies geschieht aber nicht anhand der Dateiendung, sondern file untersucht einen Teil des Inhalts der Datei, um den Dateityp zu bestimmen. File ist ein bereits ein sehr altes Programm, die erste Version stammt aus dem Jahr 1973.
+**file ist ein Kommandozeilenprogramm in Linux, welches das Format einer Datei erkennt.** Dies geschieht nicht anhand der Dateiendung, sondern file untersucht einen Teil des Inhalts der Datei, um den Dateityp zu bestimmen. File ist ein bereits ein sehr altes Programm, die erste UNIX-Version stammt aus dem Jahr 1973. Das Programm eignet sich sehr gut
 
 file ist auf dem DPL vorinstalliert.
 
 * Bedienung von file: [https://wiki.ubuntuusers.de/file/](https://wiki.ubuntuusers.de/file/)
-* Tutorial: [https://www.howtoforge.com/linux-file-command/](https://www.howtoforge.com/linux-file-command/)
+* Tutorial mit Beispielen: [https://www.howtoforge.com/linux-file-command/](https://www.howtoforge.com/linux-file-command/)
 
 Identifikation Dateiformat:
 

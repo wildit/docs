@@ -23,7 +23,7 @@ Records…
 
 Die folgende E-Mail zeigt diesen Zusammenhang auf. Ohne weitere Informationen kann sie keinem Geschäftskontext zugeordnet werden. Für sich alleine ist dies ein Dokument, aber kein Record. Wenn wir aber zusätzlich wissen, dass diese E-Mail den Entscheid zum Start eines lange vorbereiteten Projekts dokumentiert, dann können wir sie als Record einstufen.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
